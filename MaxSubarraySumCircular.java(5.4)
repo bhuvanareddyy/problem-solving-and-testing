@@ -20,7 +20,6 @@ int total = 0;
         }
     }
 
-    // If all elements are negative
     if (maxSum < 0) {
         return maxSum;
     }
